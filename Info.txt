@@ -1,0 +1,4 @@
+Grabbed raw data from an engineering firm used the machine learning algorithm to classify each temperature in the sensor as either critical, optimal or needs attention. THis can be used to form alarm systems, Diagnostics for engineering firms e.t.c
+App is meant to be run on terminal by streamlit
+
+
